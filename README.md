@@ -1,5 +1,3 @@
-![snake gif](https://github.com/GabrielVini03/GabrielVini03/blob/output/github-contribution-grid-snake.gif)
-
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -30,6 +28,9 @@
 
 
 </details>
+
+![snake gif](https://github.com/GabrielVini03/GabrielVini03/blob/output/github-contribution-grid-snake.gif)
+
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-99521220b/)

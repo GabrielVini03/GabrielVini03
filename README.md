@@ -29,9 +29,6 @@
 
 </details>
 
-![snake gif](https://github.com/GabrielVini03/GabrielVini03/blob/output/github-contribution-grid-snake.gif)
-
-
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-99521220b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielvini003@gmail.com)
@@ -39,6 +36,7 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVini03&show_icons=true&theme=gotham)
 
+![snake gif](https://github.com/GabrielVini03/GabrielVini03/blob/output/github-contribution-grid-snake.gif)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->

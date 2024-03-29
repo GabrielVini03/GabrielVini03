@@ -36,7 +36,7 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVini03&show_icons=true&theme=gotham)
 
-![snake gif](https://github.com/GabrielVini03/GabrielVini03/blob/output/github-contribution-grid-snake.gif)
+![Snake GIF](snake.gif)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->

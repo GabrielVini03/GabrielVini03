@@ -3,7 +3,7 @@ name: Snake Game
 on:
   # Atualize o workflow diariamente ou em outro intervalo desejado
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */12 * * *'
 
 jobs:
   generate-snake:
@@ -11,8 +11,6 @@ jobs:
     steps:
       - uses: platane/snk@v2.0.1
         with:
-          # Opcional: defina o username do Github (padrão é o dono do repositório)
-          # username: 'seu_nome_de_usuario'
-          # Opcional: defina o formato de saída (gif ou svg)
-          # format: 'svg'
+          username: 'GabrielVini03'
+          format: 'gif'
           output_file: 'snake.gif'  # Defina o nome do arquivo de saída

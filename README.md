@@ -36,8 +36,6 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVini03&show_icons=true&theme=gotham)
 
-![Snake GIF](snake.gif)
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">

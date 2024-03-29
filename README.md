@@ -1,3 +1,5 @@
+![snake gif](https://github.com/GabrielVini03/GabrielVini03/blob/output/github-contribution-grid-snake.gif)
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
